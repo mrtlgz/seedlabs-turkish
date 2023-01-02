@@ -4,31 +4,30 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-## Objective
+## Amaç
 
-In this project, we translate the SEED labs into Turkish.
-
-
-
-## Contributing
-
-Want to contribute? Great! Please take a few minutes to
-[read this](CONTRIBUTING.md)!
+Bu projemizde SEED laboratuvarlarını Türkçe'ye çeviriyoruz.
 
 
-## License
+## Katkı
 
-All the SEED labs in this repository use open-source licenses. 
-You can [read this](LICENSE.md) for more details.
+Katkıda bulunmak ister misiniz? Lütfen birkaç dakikanızı ayırın ve bunu
+[okuyun](CONTRIBUTING.md)!
 
 
-## Organization of this repository
+## Lisans
 
-The SEED labs are divided into 6 categories, and each one has its own folder. 
+Burda bulunan tüm SEED laboratuvarları açık kaynak lisanslarını kullanır.
+Daha fazla bilgi için [bunu okuyabilirsiniz](LICENSE.md).
 
-- ```category-crypto```:     For crypto labs
-- ```category-hardware```:   For hardware security labs
-- ```category-mobile```:     For mobile security labs
-- ```category-network```:    For network security labs
-- ```category-software```:   For software security labs
-- ```category-web```:        For web security labs
+
+## Organizasyon Şeması
+
+SEED laboratuvarları 6 kategoriye ayrılmıştır ve her birinin kendi klasörü vardır.
+
+- ```category-crypto```:     Kripto laboratuvarları için
+- ```category-hardware```:   Donanım güvenlik laboratuvarları için
+- ```category-mobile```:     Mobil güvenlik laboratuvarları için
+- ```category-network```:    Ağ güvenliği laboratuvarları için
+- ```category-software```:   Yazılım güvenliği laboratuvarları için
+- ```category-web```:        Web güvenlik laboratuvarları için
